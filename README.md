@@ -1,4 +1,4 @@
-# Social Media App
+# Connectify
 
 This is a full-stack responsive social media application built using the MERN (MongoDB, Express.js, React, Node.js) stack. Users can create posts, comment on posts, like posts, and add friends. The application also features light and dark mode themes.
 
